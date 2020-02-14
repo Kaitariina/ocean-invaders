@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Enemy
+  - Shelter
+  - limit
+  - WallLeft
+  - WallRight
+  - Shield
+  - EnemyBubble
+  - PlayerBubble
+  - Enemy2
+  - LimitL
+  - LimitR
+  - BOSS
+  - Miniboss
+  - HP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - BG
+  - Shield
+  - EnemyBubble
+  - PlayerBubble
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4006918125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3816126263
+    locked: 0
+  - name: Projectile
+    uniqueID: 3140746001
+    locked: 0
+  - name: Foreground
+    uniqueID: 1157654513
+    locked: 0
+  - name: UI
+    uniqueID: 4123061069
+    locked: 0
+  - name: New Layer
+    uniqueID: 1645896785
+    locked: 0

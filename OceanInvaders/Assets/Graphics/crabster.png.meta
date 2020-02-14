@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: a8432bf26ff991242adc56688841c105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1746844702044532438
+    second: crabster
+  - first:
+      213: 2665782913637969054
+    second: Leggie_L_Mid
+  - first:
+      213: 7972790643075796860
+    second: Leggie_L_Back
+  - first:
+      213: -5814293828593585798
+    second: Palm_L
+  - first:
+      213: -1614845393428420579
+    second: Eyetube_L
+  - first:
+      213: 3860909142188748751
+    second: Eye_L_2
+  - first:
+      213: 479453573673961586
+    second: Eye_R_2
+  - first:
+      213: 1327832423927173129
+    second: Eyetube_R
+  - first:
+      213: 6436314788924567567
+    second: Palm_R
+  - first:
+      213: 3897621596536548394
+    second: Shadow
+  - first:
+      213: 7587181505484520424
+    second: Eye_L_1
+  - first:
+      213: 1058140014936221692
+    second: Eye_R_1
+  - first:
+      213: 5687777258233317308
+    second: Thumb_R
+  - first:
+      213: 7144279416606869200
+    second: Leggie_R_Back
+  - first:
+      213: 1616244176888386218
+    second: Leggie_R_Mid
+  - first:
+      213: 957854354068384884
+    second: Leggie_L_Front
+  - first:
+      213: 3946487718637444106
+    second: Legs_L
+  - first:
+      213: -571248491712149088
+    second: Thumb_L
+  - first:
+      213: -3359611743317158056
+    second: Core
+  - first:
+      213: -7050802204135265347
+    second: Legs_R
+  - first:
+      213: 5484404700518441064
+    second: Leggie_R_Front
+  - first:
+      213: 6082866301378654860
+    second: Arm_R
+  - first:
+      213: 228718350410794127
+    second: Arm_L
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crabster
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 615
+        width: 715
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92774e39a9fc09042b1c85e7ee900a82
+      internalID: -1746844702044532438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_L_Mid
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 327
+        width: 112
+        height: 247
+      alignment: 9
+      pivot: {x: 0.90150994, y: 0.94159526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8534313970d494f82f96fb95d06b40
+      internalID: 2665782913637969054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_L_Back
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 401
+        width: 57
+        height: 139
+      alignment: 9
+      pivot: {x: 0.7517869, y: 0.9061196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfaec83708f6b8469c0233e66435266
+      internalID: 7972790643075796860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_L
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 367
+        width: 142
+        height: 172
+      alignment: 9
+      pivot: {x: 0.8234221, y: 0.105046116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3085745868f584491367a36e824da2
+      internalID: -5814293828593585798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyetube_L
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 286
+        width: 61
+        height: 235
+      alignment: 9
+      pivot: {x: 0.82315016, y: 0.047040444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590bc261ee769264485717f677e76564
+      internalID: -1614845393428420579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_L_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 437
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242cdc1682904d43a9de9d4def0245c
+      internalID: 3860909142188748751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_R_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 433
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c05646080e88a4d8684372b795ff54
+      internalID: 479453573673961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyetube_R
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 293
+        width: 61
+        height: 235
+      alignment: 9
+      pivot: {x: 0.20270176, y: 0.04368546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007c90b4d3e05ac4ab017db1190e514f
+      internalID: 1327832423927173129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palm_R
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 411
+        width: 143
+        height: 172
+      alignment: 9
+      pivot: {x: 0.20777734, y: 0.08821638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e723f05cd7afb419345af9030215f2
+      internalID: 6436314788924567567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 478
+        width: 514
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761bc762dbb0d3b43a14cc8dab525a8f
+      internalID: 3897621596536548394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_L_1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 320
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223869ff75cce7439973eec8ce44f72
+      internalID: 7587181505484520424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_R_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 316
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8667b61c7a7bb7446931cf4e914f8d04
+      internalID: 1058140014936221692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thumb_R
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 242
+        width: 56
+        height: 105
+      alignment: 9
+      pivot: {x: 0.7782462, y: 0.122257195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6056bfd66b5fd4694ff0542d9f5b3d
+      internalID: 5687777258233317308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_R_Back
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 299
+        width: 57
+        height: 139
+      alignment: 9
+      pivot: {x: 0.2993207, y: 0.8977514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dfa3c6db66e8446880e9daf73367b0
+      internalID: 7144279416606869200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_R_Mid
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 205
+        width: 112
+        height: 247
+      alignment: 9
+      pivot: {x: 0.12551662, y: 0.9245162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dac3371a65c7c4a9ba27aec043c080
+      internalID: 1616244176888386218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_L_Front
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 47
+        width: 91
+        height: 226
+      alignment: 9
+      pivot: {x: 0.85748184, y: 0.93605906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9effdc931d2d9c840874790b72d1d5ba
+      internalID: 957854354068384884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legs_L
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 209
+        height: 173
+      alignment: 9
+      pivot: {x: 0.9120148, y: 0.14051263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bf40fafbddbd4db227d7805439f89
+      internalID: 3946487718637444106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thumb_L
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 213
+        width: 56
+        height: 105
+      alignment: 9
+      pivot: {x: 0.27788815, y: 0.12639654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665e6cd89a18ef4c929a352fac433c7
+      internalID: -571248491712149088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Core
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 25
+        width: 292
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5278958, y: 0.20181349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8c25e5b205b94a973b0184e1c4a82
+      internalID: -3359611743317158056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legs_R
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 47
+        width: 209
+        height: 174
+      alignment: 9
+      pivot: {x: 0.07413756, y: 0.12941808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862df29e1bf140b42be7cfffb52f7d45
+      internalID: -7050802204135265347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leggie_R_Front
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 32
+        width: 91
+        height: 226
+      alignment: 9
+      pivot: {x: 0.20669858, y: 0.9133481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de089c65445323d4b9308fef9826afaa
+      internalID: 5484404700518441064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_R
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 46
+        width: 104
+        height: 92
+      alignment: 9
+      pivot: {x: 0.85879636, y: 0.56239927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c423b90f24484f8a5eb11312bc82a
+      internalID: 6082866301378654860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 33
+        width: 104
+        height: 94
+      alignment: 9
+      pivot: {x: 0.11862535, y: 0.5678129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb6d2a24223854abbc4c8d8a6a0ea4
+      internalID: 228718350410794127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
