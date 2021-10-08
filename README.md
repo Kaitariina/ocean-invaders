@@ -1,4 +1,4 @@
-# ocean-invaders
+## Ocean Invaders
 Ocean Invaders is my video game clone project based on the Space Invaders
 
 It took me about a month at the time (2019) to make  
